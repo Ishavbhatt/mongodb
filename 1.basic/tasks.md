@@ -1,8 +1,8 @@
 #### write commands for following mongodb opertaions
 
 1. create a database named `sports`
-// Answer here ..
-use sports
+// use sports
+
 
 2. list all databases present in local mongod server.
 // Answer here..
