@@ -131,5 +131,3 @@ db.COLLECTION_NAME.find({sports: { $in: ['khokho'] }});
     ```js
     find({ scores: { $size: 3 }})
     ```
-
-
